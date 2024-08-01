@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/victor/Documents/projetos/MeuApp/MeuApp.csproj",
+      "projectUniqueName": "/home/victor/Documents/projetos/C#/MeuApp/MeuApp.csproj",
       "projectName": "MeuApp",
-      "projectPath": "/home/victor/Documents/projetos/MeuApp/MeuApp.csproj",
+      "projectPath": "/home/victor/Documents/projetos/C#/MeuApp/MeuApp.csproj",
       "packagesPath": "/home/victor/.nuget/packages/",
-      "outputPath": "/home/victor/Documents/projetos/MeuApp/obj/",
+      "outputPath": "/home/victor/Documents/projetos/C#/MeuApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/victor/.nuget/NuGet/NuGet.Config"

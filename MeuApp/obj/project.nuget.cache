@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oIzkQHcuHdxhrrTwhKDT4xJpX6303ICfKlKq2LxS6NlxCecFNtA8M+72U+LwBDhKUw3xy9M3iKNiAPLIwbfQUQ==",
+  "dgSpecHash": "URuklL3A9+4ukAH31tTMA2tsWhdMYKdJ6EBeVdTcvJynm8VI0m0mF4rKcBs4C1OAiBeWSoFbPEjGOHGkQ3VAwQ==",
   "success": true,
-  "projectFilePath": "/home/victor/Documents/projetos/MeuApp/MeuApp.csproj",
+  "projectFilePath": "/home/victor/Documents/projetos/C#/MeuApp/MeuApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
