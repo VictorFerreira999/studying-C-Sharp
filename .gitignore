@@ -1,18 +1,5 @@
-# .gitignore for C# and .NET projects
 
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Build results
-# Build results
-[Oo]bj/
+MeuApp/obj
 
 
 
-# NuGet Packages
-*.nupkg
-packages/
