@@ -8,6 +8,12 @@ namespace MeuApp
       {
          var texto = "Testando";
          Console.WriteLine(texto);
+         MeuMetodo();
+      }
+   
+      static void MeuMetodo()
+      {
+         Console.WriteLine("Teste");
       }
    }
 }
